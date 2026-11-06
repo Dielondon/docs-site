@@ -9,7 +9,6 @@ The user documentation of Pocket Timer, a small command-line focus timer, as Mar
 - One `# Title` per page, then `##` sections. Short paragraphs, second person ("you"), present tense.
 - Commands in backticks: `pocket start`. Config keys as `key = value`.
 - Every page is linked from `docs/index.md`. Link to sections with `page.md#section-slug`.
-- The docs ship offline: no links outside `docs/` (the allowed list is for humans to change).
 
 ## Factory rules
 - Phase state lives in `.factory/` as markdown files.
