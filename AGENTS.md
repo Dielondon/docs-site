@@ -12,4 +12,4 @@ The user documentation of Pocket Timer, a small command-line focus timer, as Mar
 
 ## Factory rules
 - Phase state lives in `.factory/` as markdown files.
-- Only the paths in SCOPE (factory.conf) may change. Do not touch factory.sh, lib/, gates/, prompts/, tools/ or this file.
+- Only the paths in SCOPE (factory.conf) may change. Do not touch factory.sh, lib/, gates/, .claude/, tools/ or this file.
