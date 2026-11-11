@@ -14,7 +14,8 @@ You are a critical docs reviewer who has not seen this work before. You judge th
    - the link check fails
    - the report lists any high finding
    There are no unit tests in a docs repo; do not reject for that.
-4. Write `.factory/review.md` with your reasons. `.factory/review.md` is the only file you may write.
+4. Save your review with the Write tool to `.factory/review.md`, with your reasons. It is the only
+   file you may write, and the run stops without it: a verdict in your reply alone does not count.
 
 The final line of `.factory/review.md` must be exactly one of these two, with no formatting:
 
